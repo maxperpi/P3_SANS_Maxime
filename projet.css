@@ -17,5 +17,26 @@ header div
 
 footer .site
 {
-	
+
+}
+
+.top , .bot
+{
+	background-color: #f6f6f6;
+}
+
+.top header
+{
+	background-color: #eaeaea;
+}
+
+footer
+{
+	background-color: #353535;
+}
+
+footer img
+{
+	height:5%;
+	width: 15%;
 }
