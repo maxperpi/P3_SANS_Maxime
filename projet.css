@@ -1,16 +1,21 @@
 body
 {
-	width: 100%;
+	width: 90%;
+	margin: auto;
 	
 }
 header div
 {
 	text-align: center;
+	margin-top: 4%;
 }
 
 .site
 {
-	border: 2px solid black;
-	margin-top: 4%;
+
 }
 
+footer .site
+{
+	
+}
