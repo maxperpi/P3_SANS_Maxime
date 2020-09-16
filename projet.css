@@ -157,12 +157,21 @@ footer
 
 footer i
 {
-	height: 8%;
-	width: 5%;
+	height: 10px;
+	width: 20px;
 }
 
 footer img
 {
 	height:5%;
 	width: 15%;
+}
+
+@media all and (max-width: 500px)
+{
+body
+{
+	font-size: 100%;
+}
+
 }
