@@ -46,11 +46,16 @@ h2
 	
 }
 
+.texte strong
+{
+	font-size: 25px;
+}
+
 .texte
 {
 	margin-left: 5%;
 	border: 2px solid black;
-	font-size: 25px;
+	font-size: 12px;
 	height: 100%;
 	width: 75%;
 	margin-top: 2%;
@@ -118,4 +123,9 @@ footer img
 	}
 
 
+}
+@media all and (max-width: 680px)
+{
+	/* Changer la taille des "proposition" car le texte deviens plus petit 
+	(peut etre regler avec le changement de taille de police a voir demain) */
 }
