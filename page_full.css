@@ -55,7 +55,7 @@ h2
 {
 	margin-left: 5%;
 	border: 2px solid black;
-	font-size: 12px;
+	font-size: 18px;
 	height: 100%;
 	width: 75%;
 	margin-top: 2%;
@@ -127,5 +127,5 @@ footer img
 @media all and (max-width: 680px)
 {
 	/* Changer la taille des "proposition" car le texte deviens plus petit 
-	(peut etre regler avec le changement de taille de police a voir demain) */
+	(peut etre regler avec le changement de taille de police a voir demain) git add -A*/
 }
