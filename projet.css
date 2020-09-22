@@ -175,6 +175,13 @@ footer img
 	{
 		font-size: 100%;
 	}
+
+	footer i
+	{
+		height: 10px;
+		width: 20px;
+	}
+
 }
 
 
@@ -187,11 +194,6 @@ footer img
 		height: 30%;
 	}
 
-	footer i
-	{
-		height: 10px;
-		width: 20px;
-	}
-
+	
 
 }
