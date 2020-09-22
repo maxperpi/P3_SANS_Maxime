@@ -7,6 +7,7 @@ body
 main
 {
 	background-color: #f6f6f6;
+	padding: 2% 5%;
 }
 
 header div
@@ -36,7 +37,7 @@ h2
 	border-radius: 15px;
 }
 
-.prix
+.proposition__prix
 {
 	width: 20%;
 	border: 2px solid black;
@@ -46,20 +47,17 @@ h2
 	
 }
 
-.texte strong
+.proposition__texte strong
 {
 	font-size: 25px;
 }
 
-.texte
+.proposition__texte
 {
 	margin-left: 5%;
 	border: 2px solid black;
 	font-size: 18px;
-	height: 100%;
 	width: 75%;
-	margin-top: 2%;
-	margin-bottom: 2%;
 
 }
 
@@ -68,7 +66,6 @@ footer
 	background-color: #353535;
 	color: white;
 	padding: 2% 5%;
-	margin-top: 5%;
 }
 
 footer i
@@ -96,6 +93,7 @@ footer img
 	color: white;
 	padding-top: 1%;
 	padding-bottom: 1%;
+	margin-bottom: 5%;
 }
 
 @media all and (max-width: 800px)
