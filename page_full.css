@@ -19,6 +19,7 @@ header div
 h2
 {
 	margin-top: 8%;
+	text-transform: uppercase;
 }
 
 .image img
@@ -60,6 +61,11 @@ h2
 	width: 75%;
 
 }
+.proposition__texte em
+{
+	text-transform: uppercase;
+}
+
 
 footer
 {
