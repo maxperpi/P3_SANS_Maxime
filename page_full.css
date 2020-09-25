@@ -10,10 +10,41 @@ main
 	padding: 2% 5%;
 }
 
+header
+{
+	display: flex;
+	border: 2px solid black;
+
+}
+
+header i
+{
+	border: 2px solid black;
+	color: #616161;
+}
+header a
+{
+	border: 2px solid black;
+	margin: auto;
+	margin-left: 4%;
+	margin-right: 4%;
+
+}
+
 header div
 {
 	text-align: center;
+	border: 2px solid black;
+	margin: auto;
 	margin-top: 4%;
+	margin-bottom: 2%;
+	margin-left: 20%;
+}
+
+h1
+{
+	font-size: 4em;
+	font-style: oblique;
 }
 
 h2
