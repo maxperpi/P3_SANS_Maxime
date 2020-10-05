@@ -127,6 +127,27 @@ header div
 	overflow: hidden;
 }
 
+.restaurant-titre
+{
+	display: flex;
+}
+
+.restaurant-name
+{
+	margin-top: 2%;
+	margin-bottom: 2%;
+	margin-left: 2%;
+}
+
+.restaurant-icone
+{
+	margin-top: auto;
+	margin-bottom: auto;
+	margin-right: 5%;
+	text-align: right;
+		
+}
+
 .bot h4
 {
 	padding: 2% 2% 0% 2%;
